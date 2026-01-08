@@ -1,0 +1,5 @@
+@"
+45.79.123.45 - - [04/Jan/2026:10:15:00 +0000] "GET /robots.txt HTTP/1.1" 200 0 - "Mozilla/5.0 (compatible; Googlebot/2.1)"
+87.98.145.67 - - [04/Jan/2026:10:15:01 +0000] "GET /admin HTTP/1.1" 404 123 - "python-requests/2.31.0"
+91.234.56.78 - - [04/Jan/2026:10:15:02 +0000] "GET /.env HTTP/1.1" 404 123 - "curl/7.88.0"
+"@ | Out-File -FilePath "test_logs/suspicious_ua.log" -Encoding UTF8

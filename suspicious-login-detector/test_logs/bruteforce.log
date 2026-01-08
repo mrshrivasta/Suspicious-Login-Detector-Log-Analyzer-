@@ -1,0 +1,5 @@
+﻿203.0.113.42 - - [04/Jan/2026:10:05:00 +0000] "POST /wp-login.php HTTP/1.1" 401 0 - "Mozilla/5.0 (compatible; BruteBot/1.0)"
+203.0.113.42 - - [04/Jan/2026:10:05:02 +0000] "POST /login HTTP/1.1" 401 0 - "Mozilla/5.0 (compatible; BruteBot/1.0)"
+203.0.113.42 - - [04/Jan/2026:10:05:04 +0000] "POST /admin/login HTTP/1.1" 401 0 - "Mozilla/5.0 (compatible; BruteBot/1.0)"
+203.0.113.42 - - [04/Jan/2026:10:05:06 +0000] "POST /wp-login.php HTTP/1.1" 401 0 - "Mozilla/5.0 (compatible; BruteBot/1.0)"
+203.0.113.42 - - [04/Jan/2026:10:05:08 +0000] "POST /login HTTP/1.1" 401 0 - "Mozilla/5.0 (compatible; BruteBot/1.0)"

@@ -1,0 +1,6 @@
+# Create file: test_logs/clean.log
+cat > test_logs/clean.log << 'EOF'
+192.168.1.10 - - [04/Jan/2026:10:00:00 +0000] "GET / HTTP/1.1" 200 1234 "-" "Mozilla/5.0"
+192.168.1.11 - - [04/Jan/2026:10:00:05 +0000] "GET /about HTTP/1.1" 200 567 "-" "Chrome/120"
+192.168.1.12 - - [04/Jan/2026:10:00:10 +0000] "GET /contact HTTP/1.1" 200 890 "-" "Safari/605"
+EOF
